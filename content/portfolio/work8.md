@@ -3,7 +3,7 @@ date: "2016-11-05T19:59:22+05:30"
 draft: false
 image: img/portfolio/ts_1.png
 showonlyimage: false
-title: Name of the work 8
+title: Taylor Swift
 weight: 8
 ---
 
