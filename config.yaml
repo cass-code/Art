@@ -19,7 +19,7 @@ params:
     - name: Get in touch
       url: contact/
   sidebarAbout:
-    - My name is Cass; here is where I make my creative mess.
+    - Hi! I'm Cass; here is where I make my creative mess.
     - Currently based in Stellenbosch, South Africa.
   social:
     #email: email@example.com
