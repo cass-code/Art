@@ -12,4 +12,4 @@ Here is poetry
 
 This boy he is blue
 
-[2]: /img/blog/greek_blue.jpg
+[2]: /img/blog/greek_blue.png

@@ -14,10 +14,10 @@ params:
       url: portfolio/
     - name: About
       url: about/
-    - name: Get in touch
-      url: contact/
     - name: Writing
       url: post/
+    - name: Get in touch
+      url: contact/
   sidebarAbout:
     - My name is Cass; here is where I make my creative mess.
     - Currently based in Stellenbosch, South Africa.
