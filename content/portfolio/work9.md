@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:02:19+05:30"
 draft: true
-image: img/portfolio/ls_2.png
+image: img/portfolio/ls_1.jpg
 showonlyimage: true
 title: landscape
 weight: 9
