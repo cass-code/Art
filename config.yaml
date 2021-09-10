@@ -1,4 +1,4 @@
-baseurl: https://example.org/
+baseurl: https://cass-art.netlify.app/
 title: Creative portfolio
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
