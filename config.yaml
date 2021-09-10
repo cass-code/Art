@@ -1,12 +1,12 @@
 baseurl: https://cass-art.netlify.app/
-title: Creative portfolio
+title: Cass Mess
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
 disqusShortname: ''
 googleAnalytics: ''
 params:
-  copyright: '&copy;2016 Your name or company'
-  description: Describe your website
+  copyright: '&copy;2021 cass-mess'
+  description: Art portfolio
   email: you@yoursite.com
   navlinks:
     - home: yes
@@ -17,19 +17,18 @@ params:
     - name: Get in touch
       url: contact/
   sidebarAbout:
-    - I am a creative illustrator and graphic designer with more than 10 years of
-      experience.
-    - Originally from Toronto, currently based in London.
+    - I am an economics student with an interest in arts and writing. 
+    - Currently based in Stellenbosch, South Africa.
   social:
     email: email@example.com
-    facebook: full page or profile url in facebook
-    github: full profile url in github
-    gitlab: full profile url in gitlab
-    googleplus: full profile url in googleplus
-    instagram: full profile url in instagram
-    linkedin: full profile url in linkedin
-    stackoverflow: full profile url in stackoverflow
-    twitter: full profile url in twitter
-    whatsapp: wa.me service link
-    youtube: full profile url in youtube
+    #facebook: full page or profile url in facebook
+    github: https://github.com/cass-code
+    #gitlab: full profile url in gitlab
+    #googleplus: full profile url in googleplus
+    instagram: https://www.instagram.com/cass.mess/
+    linkedin: https://www.linkedin.com/in/cassandra-pengelly/
+    #stackoverflow: full profile url in stackoverflow
+    #twitter: full profile url in twitter
+    #whatsapp: wa.me service link
+    #youtube: full profile url in youtube
   style: default
