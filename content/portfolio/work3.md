@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T19:44:32+05:30"
 draft: false
-image: img/portfolio/gravity-paper.jpg
-showonlyimage: false
-title: Name of the work 3
+image: img/portfolio/pear.png
+showonlyimage: true
+title: Pear
 weight: 2
 ---
 

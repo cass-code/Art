@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T19:57:40+05:30"
 draft: false
-image: img/portfolio/label-clothes.jpg
-showonlyimage: false
-title: Name of the work 7
+image: img/portfolio/leaf.png
+showonlyimage: true
+title: Lief
 weight: 7
 ---
 
