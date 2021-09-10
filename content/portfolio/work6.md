@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T19:56:17+05:30"
-draft: true
-image: ""
-showonlyimage: false
-title: Name of the work 6
+draft: false
+image: img/portfolio/ls_1.png
+showonlyimage: true
+title: George
 weight: 6
 ---
 

@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T20:02:19+05:30"
 draft: true
-image: img/portfolio/envelope-brand.jpg
+image: img/portfolio/ls_2.png
 showonlyimage: false
-title: Item with image
+title: landscape
 weight: 9
 ---
 

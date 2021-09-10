@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T19:50:47+05:30"
-draft: true
-image: ""
-showonlyimage: false
-title: Item without image
+draft: 
+image: img/portfolio/plant_3.png
+showonlyimage: true
+title: Plant boi
 weight: 4
 ---
 
