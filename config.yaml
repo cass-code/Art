@@ -16,6 +16,8 @@ params:
       url: about/
     - name: Get in touch
       url: contact/
+    - name: Writing
+      url: post/
   sidebarAbout:
     - I am an economics student with an interest in arts and writing. 
     - Currently based in Stellenbosch, South Africa.
