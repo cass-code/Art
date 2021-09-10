@@ -1,6 +1,6 @@
 ---
 date: "2016-11-05T19:50:47+05:30"
-draft: 
+draft: false
 image: img/portfolio/plant_3.png
 showonlyimage: true
 title: Plant boi

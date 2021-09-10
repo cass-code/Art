@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T20:22:08+05:30"
 draft: true
-image: img/portfolio/trifold.jpg
+image: img/portfolio/still_life_1.jpg
 showonlyimage: true
-title: Item with image
+title: It's still life
 weight: 10
 ---
 

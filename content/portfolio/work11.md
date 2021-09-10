@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T20:23:59+05:30"
-draft: true
-image: img/portfolio/paper-presentation.jpg
+draft: false
+image: img/portfolio/ts_2.jpg
 showonlyimage: true
-title: Item with image
+title: Peter losing Wendy
 weight: 11
 ---
 

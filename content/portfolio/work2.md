@@ -3,7 +3,7 @@ date: "2016-11-05T19:41:01+05:30"
 draft: false
 image: img/portfolio/plant_1.png
 showonlyimage: true
-title: Name of the work 2
+title: Plant
 weight: 1
 ---
 
