@@ -20,7 +20,7 @@ params:
       url: contact/
   sidebarAbout:
     - Hi! I'm Cass; here is where I make my creative mess.
-    - Currently based in Stellenbosch, South Africa.
+    # - Currently based in Stellenbosch, South Africa.
   social:
     #email: email@example.com
     #facebook: full page or profile url in facebook
